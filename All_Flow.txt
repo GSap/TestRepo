@@ -1,0 +1,6 @@
+This is a basic README file explaining the purpose of this
+implementation. The main point is to highlight a way of 
+using OpenFlow to get Flow information for green networking 
+purposes.
+Counters from all flows are gathered and based on these and the flows
+path, we assign byte counts to links.
